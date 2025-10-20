@@ -15,6 +15,7 @@ Specialized in building **E-Commerce** and **SaaS Platforms**, focusing on clean
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-blue?logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-Framework-red?logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens)
 ![Paymob](https://img.shields.io/badge/Paymob-Integration-orange)
